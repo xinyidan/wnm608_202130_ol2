@@ -1,2 +1,6 @@
-# wnm608_202130_ol2
-WNM608 Spring class
+# Xinyi Dan
+
+## Relevant Links
+- https://xinyidandesign.com
+- https://xinyidandesign.com/aau/wnm608/dan.xinyi
+- https://xinyidandesign.com/aau/wnm608/dan.xinyi/styleguide
