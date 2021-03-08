@@ -1,3 +1,2 @@
-# Xinyi Dan
-
-- https://xinyidandesign.com
+# wnm608_202130_ol2
+WNM608 Spring class
